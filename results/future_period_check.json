@@ -1,0 +1,5 @@
+{
+  "roc_auc": 0.686,
+  "test_yes_rate": 0.316,
+  "train_yes_rate": 0.067
+}
